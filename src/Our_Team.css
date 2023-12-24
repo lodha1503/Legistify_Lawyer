@@ -1,0 +1,286 @@
+.ResearchWork{
+  height: 100%;
+  width: 100vw;
+
+
+  
+}
+
+.Abstract{
+  
+  width:1125px;
+  height: 884px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 86px;
+
+  
+}
+
+.Abstract-Header{
+  width: 367px;
+  height: 28px;
+  margin-bottom: 8px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 127.273% */
+
+}
+
+.Phd-Thesis-Title{
+  width: 616px;
+  height: 28px;
+  margin-bottom: 64px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px; /* 233.333% */
+
+}
+
+.link{
+  color: #004494;
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  text-decoration-line: underline;
+}
+
+
+.research-details{
+
+  width: 864px;
+  height: 756px;
+  margin-bottom: 145px;
+  color: #000;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 28px; /* 200% */
+  letter-spacing: 0.28px;
+}
+
+.stroke{
+  width: 480px;
+  height: 1px;
+  margin-bottom: 123px;
+  flex-shrink: 0;
+  stroke-width: 3px;
+  stroke: #004494;
+}
+
+.PhD-section{
+
+  width: 1125px;
+  height: 330px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+
+.PhD-section-header{
+
+  width: 151px;
+  height: 28px;
+  margin-bottom: 48px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 127.273% */
+}
+
+.PhD-Students{
+
+  width: 1125px;
+  height: 254px;
+  display: flex;
+}
+
+
+.PhD-Student{
+  
+  width: 236px;
+  height: 254px;
+  margin-right: 54px;
+ 
+}
+
+.PhD-photo{
+  
+  width: 192px;
+  height: 192px;
+  margin-left: 22px;
+  margin-right: 22px;
+  margin-bottom: 12px;
+  border-radius: 16px;
+}
+
+.PhD-info{
+  
+  width: 236px;
+  height: 50px;
+  
+}
+
+.PhD-name{
+  
+ 
+  width: 192px;
+  height: 28px;
+  margin-left: 22px;
+  margin-right: 22px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px; 
+  text-align: center;
+}
+
+.PhD-Research-Domain{
+  
+  width: 238px;
+  height: 18px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: center;
+}
+
+
+
+
+.MTech-section{
+  margin-bottom: 50px;
+  width: 1125px;
+  height: 330px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.MTech-section-header{
+
+  width: 151px;
+  height: 28px;
+  margin-bottom: 48px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 127.273% */
+}
+
+.MTech-Students{
+
+  width: 1125px;
+  height: 254px;
+  display: flex;
+}
+
+
+.MTech-Student{
+  
+  width: 236px;
+  height: 254px;
+  margin-right: 54px;
+ 
+}
+
+.MTech-photo{
+  
+  width: 192px;
+  height: 192px;
+  margin-left: 22px;
+  margin-right: 22px;
+  margin-bottom: 12px;
+  border-radius: 16px;
+}
+
+.MTech-info{
+  
+  width: 236px;
+  height: 50px;
+  
+}
+
+.MTech-name{
+  
+ 
+  width: 192px;
+  height: 28px;
+  margin-left: 22px;
+  margin-right: 22px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px; 
+  text-align: center;
+}
+
+.MTech-Research-Domain{
+  
+  width: 238px;
+  height: 18px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: center;
+}
+
+.Professional-Services{
+  
+  width: 1125px;
+  height: 180px;
+  margin-top:84px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.Professional-Services-header{
+  width: 367px;
+  height: 28px;
+  margin-bottom: 8px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 127.273% */
+
+}
+
+.Professional-Services-terms{
+ 
+  
+  margin-bottom: 145px;
+  color: #000;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 28px; /* 200% */
+  letter-spacing: 0.28px;
+  
+  
+}

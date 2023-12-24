@@ -1,26 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Provider } from 'react-redux';
 
-function App() {
+
+import './App.css';
+import NavBar from './NavBar';
+import Home from './Home';
+import Appointment from './Appointment';
+import Our_Team from './Our_Team';
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    
+      <Router>
+        <NavBar />
+        <Routes>
+          <Route path="/" element={<div><Home /></div>} />
+          <Route path="/Appointment" element={<Appointment/>} />
+          <Route path="/our_team" element={<Our_Team/>} />
+        </Routes>
+      </Router>
+
   );
 }
-
-export default App;

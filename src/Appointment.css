@@ -1,0 +1,41 @@
+/* Home.css */
+
+/* Style for the root element with the background image */
+.app-container {
+  background-image: url('https://www.barrattorneys.com/app/uploads/2021/03/home-hero.jpg'); /* Replace with the path to your background image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+/* Transparent table with readable text */
+.ant-table {
+  background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent background */
+  color: black; /* Adjust text color for readability */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 1000px;
+  width: 100%;
+}
+
+/* Transparent table header */
+.ant-table-thead > tr > th {
+  background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent background */
+}
+
+/* Transparent table row */
+.ant-table-tbody > tr > td {
+  background-color: transparent;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+/* Table row on hover */
+.ant-table-tbody > tr:hover > td {
+  background-color: rgba(230, 247, 255, 0.5); /* Semi-transparent on hover */
+}

@@ -1,0 +1,111 @@
+[
+    {
+      "key": 1,
+      "name": "Amit Patel",
+      "speciality": "Corporate Law",
+      "firms": "Patel & Associates",
+      "address": "789 Oak Lane, Mumbai, MH 400001",
+      "phone_number": "022-12345678",
+      "available_time": "Mon-Fri 9:30am - 6:30pm"
+    },
+    {
+      "key": 2,
+      "name": "Priya Sharma",
+      "speciality": "Immigration Law",
+      "firms": "Sharma Law Firm",
+      "address": "567 Maple Avenue, New Delhi, DL 110001",
+      "phone_number": "011-98765432",
+      "available_time": "Mon-Fri 10am - 7pm"
+    },
+    {
+      "key": 3,
+      "name": "Rajesh Kumar",
+      "speciality": "Real Estate Law",
+      "firms": "Kumar Legal Services",
+      "address": "321 Rose Street, Bengaluru, KA 560001",
+      "phone_number": "080-76543210",
+      "available_time": "Mon-Fri 9am - 6pm"
+    },
+    {
+      "key": 4,
+      "name": "Neha Gupta",
+      "speciality": "Intellectual Property Law",
+      "firms": "Gupta & Partners",
+      "address": "456 Tulip Road, Pune, MH 411001",
+      "phone_number": "020-98765432",
+      "available_time": "Mon-Fri 10am - 7pm"
+    },
+    {
+      "key": 5,
+      "name": "Arun Singh",
+      "speciality": "Employment Law",
+      "firms": "Singh & Co. Legal",
+      "address": "789 Orchid Lane, Kolkata, WB 700001",
+      "phone_number": "033-12345678",
+      "available_time": "Mon-Fri 9:30am - 6:30pm"
+    },
+    {
+      "key": 6,
+      "name": "Anjali Verma",
+      "speciality": "Environmental Law",
+      "firms": "Verma Law Associates",
+      "address": "234 Lily Street, Chennai, TN 600001",
+      "phone_number": "044-87654321",
+      "available_time": "Mon-Fri 9am - 5:30pm"
+    },
+    {
+      "key": 7,
+      "name": "Vikram Malhotra",
+      "speciality": "Tax Law",
+      "firms": "Malhotra Tax Consultants",
+      "address": "567 Jasmine Avenue, Hyderabad, TS 500001",
+      "phone_number": "040-23456789",
+      "available_time": "Mon-Fri 10:30am - 7:30pm"
+    },
+    {
+      "key": 8,
+      "name": "Rashmi Desai",
+      "speciality": "Personal Injury Law",
+      "firms": "Desai Legal Services",
+      "address": "876 Sunflower Road, Ahmedabad, GJ 380001",
+      "phone_number": "079-34567890",
+      "available_time": "Mon-Fri 9am - 6pm"
+    },
+    {
+      "key": 9,
+      "name": "Sanjay Choudhury",
+      "speciality": "Immigration Law",
+      "firms": "Choudhury Immigration Services",
+      "address": "123 Magnolia Street, Chandigarh, CH 160001",
+      "phone_number": "0172-6543210",
+      "available_time": "Mon-Fri 10am - 7pm"
+    },
+    {
+      "key": 10,
+      "name": "Mala Khanna",
+      "speciality": "Family Law",
+      "firms": "Khanna Family Legal",
+      "address": "345 Lotus Lane, Jaipur, RJ 302001",
+      "phone_number": "0141-7890123",
+      "available_time": "Mon-Fri 9:30am - 6:30pm"
+    },
+    {
+      "key": 11,
+      "name": "Rahul Sharma",
+      "speciality": "Criminal Law",
+      "firms": "Sharma & Associates",
+      "address": "567 Marigold Road, Lucknow, UP 226001",
+      "phone_number": "0522-1234567",
+      "available_time": "Mon-Fri 9am - 5:30pm"
+    },
+    {
+      "key": 12,
+      "name": "Ananya Reddy",
+      "speciality": "Corporate Law",
+      "firms": "Reddy Corporate Legal",
+      "address": "678 Daisy Street, Kochi, KL 682001",
+      "phone_number": "0484-8765432",
+      "available_time": "Mon-Fri 10:30am - 7:30pm"
+    }
+  ]
+
